@@ -27,10 +27,12 @@ import lt from "./locales/lt-LT"
 import fi from "./locales/fi-FI"
 import no from "./locales/nb-NO"
 import id from "./locales/id-ID"
+import byBY from "./locales/by-BY"
 
 export const TRANSLATIONS = {
   "en-US": enUs,
   "en-GB": enGb,
+  "by-BY": byBY,
   "fr-FR": fr,
   "it-IT": it,
   "ja-JP": ja,
